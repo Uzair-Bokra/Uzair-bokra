@@ -1,3 +1,4 @@
+![logo](https://github.com/Uzair-Bokra/Uzair-bokra/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Uzair Bokra</h1>
 <h3 align="center">A passionate Generative AI Engineer & Mern Stack Developer</h3>
 
