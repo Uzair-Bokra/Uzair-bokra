@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Cloud Native Development, MERN Stack Development,Generative AI Engineering**
 
-- 📫 How to reach me **uzairbokra.dev@gmail.com**
+- 📫 How to reach me **uzair.bokra@gmail.com**
 
 - ⚡ Fun fact **I am Funny😊😂**
 
